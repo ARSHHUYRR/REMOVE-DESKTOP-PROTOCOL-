@@ -2,7 +2,7 @@
 bin-debug/
 bin-release/
 [Oo]bj/
-[Bb]in/
+[rr]in/
 
 # Other files and folders
 .settings/
